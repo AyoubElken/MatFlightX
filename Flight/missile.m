@@ -1,3 +1,4 @@
+% ## Simulink model simulating a missile guidance system target track with obstacle avoidance capabilities
 clc; close all; clear all:
 format short
 A = [-1.064 1; 290.26 0];
