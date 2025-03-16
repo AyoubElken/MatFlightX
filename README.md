@@ -48,7 +48,7 @@ This repository contains a **complete Guidance, Navigation, and Control (GNC) sy
 
 ## Contributions
 
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request except if you're not finding missile slx (bruh).
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
 ## License
 
